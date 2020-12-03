@@ -1,6 +1,5 @@
 # Sokoban
-
-{EPITECH} | First year | Unix System programming project
+# {EPITECH} | First year | Unix System programming project
 
 Sokoban (warehouse keeper in Japanese) is a type of transport puzzle, in which
 the player pushes boxes or crates around in a warehouse, trying to get them to
@@ -22,17 +21,18 @@ See the subject for further details !
 
 ========================
 
-1st semester Unix System programming (part I) unit
+## 1st semester Unix System programming (part I) unit
 
 Grade : D | Mark : 2.5
 
-Score : 62.5%
-
-  - Usage and input checks : 100% --- 4/4
-  - Basic moves : 100% --- 4/4%
-  - Basic collisions and box on targets : 50% --- 2/4
-  - Intermediate moves and collisions : 50% --- 3/6
-  - Intermediate maps tests : 25% --- 1/4
-  - Intermediate winning and losing conditions : 50% --- 1/2
+| Category                                   | Percentage | Tests     | Crash ? |
+|--------------------------------------------|------------|-----------|---------|
+| Usage and input checks                     | 100%       | 4/4       | x       |
+| Basic moves                                | 100%       | 4/4       | x       |
+| Basic collisions and box on targets        | 50%        | 2/4       | x       |
+| Intermediate moves and collisions          | 50%        | 3/6       | x       |
+| Intermediate maps tests                    | 25%        | 1/4       | x       |
+| Intermediate winning and losing conditions | 50%        | 1/2       | x       |
+| **End scores**                             | **62.5%**  | **15/24** | **No**  |
 
 Beware of -42 Epitech students !!!
